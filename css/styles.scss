@@ -71,3 +71,18 @@ body{
     position:absolute;
     bottom: 0px;
 }
+
+.modal{
+    border:0px;
+ .modal-header{
+    background-color: $background-dark;
+    color: floralwhite;
+    border:0px;
+ }
+ .close{
+    color: floralwhite;
+ }
+ .modal-body{
+    background-color: $background-pale;
+ }
+}
